@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href= "https://www.linkedin.com/in/giselle-garcia/"/>
-</div>
-
 ###
-
 
 <h1 align="center">Hey there!</h1>
 
@@ -14,6 +9,14 @@
 ###
 
 <p align="left">👩‍💻 I'm Giselle, a graduated Designer and Dev-to-be from Rio de Janeiro, Br<br><br>- 🔭 I’m working on my career transition to full-stack dev <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I headbang and cuddle my pets </p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/giselle-garcia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="25" alt="LinkedIn" />
+  </a>
+</div>
 
 ###
 
