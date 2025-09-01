@@ -5,7 +5,7 @@
 ###
 
 <p align="left">👩‍💻 I'm Giselle, a graduated Designer and Dev-to-be from Rio de Janeiro, Br<br><br>- 🔭 I’m working on my career transition to full-stack dev <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I headbang and cuddle my pets<br><br>- Check my LinkedIn -> <a href="https://www.linkedin.com/in/giselle-garcia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width='40' alt="LinkedIn"/></a>  </p>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width='30' alt="LinkedIn"/></a>  </p>
     
 <br><br>
 
