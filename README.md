@@ -5,7 +5,7 @@
 ###
 
 <p align="left">👩‍💻 I'm Giselle, a graduated Designer and soon-to-be dev from Rio de Janeiro, Br.<br><br>- 🔭 I’m working on my career transition to full-stack dev <br>- 📚 I'm currently learning React, Java and Springboot<br>- ⚡ In my free time I headbang and cuddle my pets<br><br>Let's connect  &darr;<br>    <a href="https://www.linkedin.com/in/giselle-garcia/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" height="75" width="112,5" alt="LinkedIn"/></a>  </p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" height="75" width="112,5" alt="LinkedIn"/></a> <a href="https://www.behance.net/gisellegarcia"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance2.svg" height="40" width="125" alt="Behance"> </p>
     
 <br><br>
 
