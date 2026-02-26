@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Giselle 👋</h1>
+<h1 align="center">Hi, I'm Giselle</h1>
 <h3 align="center">Designer turned Full-Stack Developer | UI/UX + Code</h3>
 
 ---
